@@ -1,9 +1,10 @@
 {
 	"status":"200",
-	"msg":"1",
+	"msg":"2",
 	"data":[
 		{"url":"http://p0ste9mg6.bkt.clouddn.com/card.png","title":"card"},
 		{"url":"http://p0ste9mg6.bkt.clouddn.com/love.png","title":"love"},
 		{"url":"http://p0ste9mg6.bkt.clouddn.com/statistic.png","title":"statistic"},
+		{"url":"http://p0ste9mg6.bkt.clouddn.com/lover.png","title":"lover"},
 	]
 }
