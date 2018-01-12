@@ -1,10 +1,10 @@
 {
 	"status":"200",
-	"msg":"1",
+	"msg":"2",
 	"data":[
 		{"url":"http://p0ste9mg6.bkt.clouddn.com/wrapper.png","hybridLink":""},
 		{"url":"http://p0ste9mg6.bkt.clouddn.com/wrapper.png","hybridLink":""},
 		{"url":"http://p0ste9mg6.bkt.clouddn.com/wrapper.png","hybridLink":""},
 	],
-	"show":"1"
+	"show":"0"
 }
