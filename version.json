@@ -1,4 +1,8 @@
 {
-	"currrentVersion":"2.3.8",
-	"msg":"版本有更新啦!"
+	"currrentVersion":"2.4.0",
+	"msg":"版本有更新啦!",
+	"fourceUpdate":{
+		"force":"1",
+		"versions":["2.3.8","2.3.9"],
+	}
 }
