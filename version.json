@@ -1,8 +1,8 @@
 {
-	"currrentVersion":"2.4.2",
-	"msg":"2.4.1版本因细节疏忽，需要停止使用，非常抱歉，正在加班修改！",
+	"currrentVersion":"2.4.1",
+	"msg":"请大家不要更新2.4.1 正在紧急处理",
 	"fourceUpdate":{
-		"force":"1",
+		"force":"0",
 		"versions":["2.4.1"],
 	}
 }
