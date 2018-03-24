@@ -1,8 +1,8 @@
 {
-	"currrentVersion":"2.4.1",
-	"msg":"App Store 版本有更新啦,新版本带来了全新课表功能，课表自定义，优化了很多细小的地方",
+	"currrentVersion":"2.4.2",
+	"msg":"2.4.1版本因细节疏忽，需要停止使用，非常抱歉，正在加班修改！",
 	"fourceUpdate":{
-		"force":"0",
-		"versions":["2.4.0","2.3.9"],
+		"force":"1",
+		"versions":["2.4.1"],
 	}
 }
