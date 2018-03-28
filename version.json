@@ -1,8 +1,8 @@
 {
-	"currrentVersion":"2.4.1",
-	"msg":"请大家不要更新2.4.1 正在紧急处理",
+	"currrentVersion":"2.4.2",
+	"msg":"可以更新版本啦！\n 1. 稳定的新课表 \n 2.课表自定义 \n 3.修复校园卡无法充值等BUG \n 4.优化了很多细节体验 \n 5.修复了Days 删除错误的BUG \n 旧的版本停止使用，非常抱歉!",
 	"fourceUpdate":{
-		"force":"0",
-		"versions":["2.4.1"],
+		"force":"1",
+		"versions":["2.4.1","2.4.0"],
 	}
 }
